@@ -163,7 +163,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Developed a social media web application using React.js, TypeScript, Tailwind CSS, and Appwrite with React Query for efficient data fetching.',
-        link: 'https://github.com/anilrai4001/snapgram',
+        link: 'https://snapgram-indol.vercel.app/',
     }
 
 ];
