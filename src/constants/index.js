@@ -111,6 +111,19 @@ export const skills = [
 
 export const experiences = [
 {
+    title: "Frontend Developer Intern",
+    company_name: "Cuvette",
+    icon: cuvette,
+    iconBg: "#89CFF0",
+    date: "November 2023 - February 2023",
+    points: [
+        "Collaborated with frontend team to develop new website pages using reusable components.",
+"Improved the design of existing website pages by rectifying layout inconsistencies and enhancing visual appeal.",
+"Utilized state management tools to enhance user interactions on web pages.",
+"Integrated frontend components with backend APIs to enable seamless data exchange and functionality.",
+        ]
+},
+{
     title: "Fullstack Developer Intern",
     company_name: "Coding Blocks",
     icon: codingBlocks,
@@ -144,6 +157,13 @@ export const socialLinks = [
 
 export const projects = [
     {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: 'Full Stack Instagram Clone',
+        description: 'Developed a social media web application using React.js, TypeScript, Tailwind CSS, and Appwrite with React Query for efficient data fetching.',
+        link: 'https://snapgram-indol.vercel.app/',
+    },
+    {
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'Youtube Clone',
@@ -158,12 +178,6 @@ export const projects = [
         link: 'https://movix-anil.vercel.app/',
     },
 
-    {
-        iconUrl: snapgram,
-        theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Developed a social media web application using React.js, TypeScript, Tailwind CSS, and Appwrite with React Query for efficient data fetching.',
-        link: 'https://snapgram-indol.vercel.app/',
-    }
+    
 
 ];
