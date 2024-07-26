@@ -115,7 +115,7 @@ export const experiences = [
     company_name: "Cuvette",
     icon: cuvette,
     iconBg: "#89CFF0",
-    date: "November 2023 - February 2023",
+    date: "November 2023 - February 2024",
     points: [
         "Collaborated with frontend team to develop new website pages using reusable components.",
 "Improved the design of existing website pages by rectifying layout inconsistencies and enhancing visual appeal.",
